@@ -6,4 +6,4 @@ The java file contained in this repository contains methods that can be used to 
 -	Two methods to calculate the total combinations of two primes that equal N. One using a hashmap and the other using a binary search algorithm. 
 
 The java file outputs  data to a .txt file. Use a graphing software of your choice to plot the relationship.  
-Also I found it strange that I couldn’t find a list of total combinations for a given even number online, so this repository also includes my .txt file. 
+Also I found it strange that I couldn’t find a list of total combinations for a given even number online, so this repository also includes my .txt file for until 10^6 even numbers. 
