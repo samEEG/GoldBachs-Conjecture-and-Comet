@@ -7,3 +7,5 @@ The java file contained in this repository contains methods that can be used to 
 
 The java file outputs  data to a .txt file. Use a graphing software of your choice to plot the relationship.  
 Also I found it strange that I couldn’t find a list of total combinations for a given even number online, so this repository also includes my .txt file for until 10^6 even numbers. 
+
+Will be writing this in python and making it much more clear in the near future 
